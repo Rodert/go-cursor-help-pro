@@ -1,3 +1,13 @@
+项目原地址： https://github.com/yuaotian/go-cursor-help/
+
+项目目标：
+
+1. 方式原地址被 Ban。
+2. 我会在项目基础上做一些修改，满足未来 cursor 继续更新。
+
+---
+
+
 # 🚀 Cursor Free Trial Reset Tool
 
 <div align="center">
@@ -545,4 +555,5 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 </details>
+
 
