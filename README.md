@@ -5,6 +5,64 @@
 1. 防止原地址被 Ban。
 2. 我会在项目基础上做一些修改，满足未来 cursor 继续更新。
 
+## 教程
+
+### 🌟 最新版本
+- v0.45.11 (2025-02-07) - 最新发布
+- v0.44.11 (2025-01-03) - 最稳定版本
+
+[查看完整版本历史](CursorHistoryDown.md)
+
+</div>
+
+### 📥 直接下载链接
+
+**v0.44.11 (推荐稳定版)**
+- Windows: [官方下载](https://downloader.cursor.sh/builds/250103fqxdt5u9z/windows/nsis/x64) | [镜像下载](https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.11%20-%20Build%20250103fqxdt5u9z-x64.exe)
+- Mac: [Apple Silicon](https://dl.todesktop.com/230313mzl4w4u92/versions/0.44.11/mac/zip/arm64)
+
+</details>
+
+> ⚠️ **MAC地址修改警告**
+> 
+> Mac用户请注意: 本脚本包含MAC地址修改功能，将会:
+> - 修改您的网络接口MAC地址
+> - 在修改前备份原始MAC地址
+> - 此修改可能会暂时影响网络连接
+> - 执行过程中可以选择跳过此步骤
+
+
+### 🚀 一键解决方案
+
+<details open>
+<summary><b>国内用户（推荐）</b></summary>
+
+**macOS**
+
+```bash
+curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh | sudo bash
+```
+
+**Linux**
+
+```bash
+curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_linux_id_modifier.sh | sudo bash
+```
+
+**Windows**
+
+```powershell
+irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+```
+<div align="center">
+<img src="img/run_success.png" alt="运行成功" width="600"/>
+</div>
+
+</details>
+<details open>
+<summary><b>Windows 管理员终端运行和手动安装</b></summary>
+
+
 ---
 
 
