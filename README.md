@@ -545,43 +545,7 @@ Modifying this registry key may affect:
 
 ---
 
-##  Support
 
-<div align="center">
-<b>If you find this helpful, consider buying me a spicy gluten snack (Latiao) as appreciation~ 💁☕️</b>
-<table>
-<tr>
-
-<td align="center">
-<b>微信赞赏</b><br>
-<img src="img/wx_zsm2.png" width="500" alt="微信赞赏码"><br>
-<small>要到饭咧？啊咧？啊咧？不给也没事~ 请随意打赏</small>
-</td>
-<td align="center">
-<b>支付宝赞赏</b><br>
-<img src="img/alipay.png" width="500" alt="支付宝赞赏码"><br>
-<small>如果觉得有帮助,来包辣条犒劳一下吧~</small>
-</td>
-<td align="center">
-<b>Alipay</b><br>
-<img src="img/alipay_scan_pay.jpg" width="500" alt="Alipay"><br>
-<em>1 Latiao = 1 AI thought cycle</em>
-</td>
-<td align="center">
-<b>WeChat</b><br>
-<img src="img/wx_group6.jpg" width="500" alt="WeChat"><br>
-<em>二维码7天内(3月19日前)有效，过期请加微信</em>
-</td>
-<!-- <td align="center">
-<b>ETC</b><br>
-<img src="img/etc.png" width="100" alt="ETC Address"><br>
-ETC: 0xa2745f4CD5d32310AC01694ABDB28bA32D125a6b
-</td>
-<td align="center"> -->
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
